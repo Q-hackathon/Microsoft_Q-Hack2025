@@ -2,7 +2,7 @@
 
 ## **Build AI Agents to Simplify Student Life**
 
-### 📄 **General Description**
+### 📄 **Problem Statement**
 
 Every year, thousands of students manage numerous tasks that can be time-consuming and challenging. With rapid advances in AI, you have the opportunity to design a group of AI agents that work together to simplify these tasks. 
 
@@ -11,13 +11,6 @@ In this challenge, you will develop multiple agents that collaborate to tackle v
 The students are invited to focus on the issues that affect them the most. For example, you might build one agent that aggregates job listings and another that tailors resumes and cover letters. These agents can work together to automate and optimize the entire job application process.
 
 Use the latest Microsoft technology to bring your idea to life and create a cohesive system that helps students achieve more.
-
-### 🎯 **Target Group**
-
-- AI enthusiasts  
-- Hackers with knowledge in Python  
-- Gen AI Orchestrator knowledge or willingness to learn  
-- Frontend/Backend development skills are a plus  
 
 ### 🛠️ **The Application That is Built**
 
@@ -32,7 +25,7 @@ Use Semantic Kernel or other frameworks to develop your own multi-agent applicat
 - Hosting solutions in Azure  
 - Various frontend and backend frameworks  
 
-### 📦 **Deliverables of the Challenge**
+### ✅ Deliverables of the Challenge
 
 - Working solution of your web application solving the problem you want to tackle  
 - Presentation of your solution  
@@ -53,4 +46,9 @@ Use Semantic Kernel or other frameworks to develop your own multi-agent applicat
 - [Semantic Kernel GitHub Repository](https://github.com/microsoft/semantic-kernel)  
 - [What is Azure OpenAI Service? - Azure AI services | Microsoft Learn](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)  
 - [Azure/intro-to-intelligent-apps](https://github.com/Azure/intro-to-intelligent-apps)  
-- [Agentic Playground by Dennis Zielke](https://github.com/denniszielke/agentic-playground)  
+- [Agentic Playground by Dennis Zielke](https://github.com/denniszielke/agentic-playground)
+
+### 🏆 Additional Prizes for Challenge Winner
+
+- Vouchers for an official [Microsoft Certification](https://learn.microsoft.com/de-de/credentials/browse/?credential_types=certification)
+- Call with Microsoft after the Hackathon
