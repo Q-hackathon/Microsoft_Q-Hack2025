@@ -1,3 +1,5 @@
+![Q-Hack_Microsoft](https://github.com/user-attachments/assets/4acd82d3-ab01-41cb-8315-2f91a6919768)
+
 # **Microsoft Challenge @ Q-Hack 2025**
 
 ## **Build AI Agents to Simplify Student Life**
