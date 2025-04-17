@@ -54,3 +54,31 @@ Use Semantic Kernel or other frameworks to develop your own multi-agent applicat
 
 - Vouchers for an official [Microsoft Certification](https://learn.microsoft.com/de-de/credentials/browse/?credential_types=certification)
 - Call with Microsoft after the Hackathon
+
+---
+
+### 🧪 Evaluation Criteria
+
+A total of **20 points** can be awarded across three categories:
+
+#### 💼 Business Criteria (0–8 Points)
+
+##### Degree of Innovation (0–5 Points)
+- How **novel** and **creative** is the solution?  
+- Is there a clear **differentiation factor** compared to existing solutions?
+
+##### Business Impact & Scalability (0–3 Points)
+- How **realistic** is its implementation in practice?  
+- How **scalable** is the solution?  
+- Does the solution have **potential to create a business impact**?
+
+#### 🛠️ Technical Criteria (0–8 Points)
+
+##### Technical Implementation (0–5 Points)
+- How well is the technical implementation done? → **Code quality, architecture**  
+- Are relevant/required **technologies used effectively**?  
+- Is there a **functioning MVP**?
+
+##### UX & Design (0–3 Points)
+- Is the user interface **(UI) intuitive and visually appealing**?  
+- Was user experience **(UX) taken into account** during development?
