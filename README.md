@@ -82,3 +82,36 @@ A total of **20 points** can be awarded across three categories:
 ##### UX & Design (0–3 Points)
 - Is the user interface **(UI) intuitive and visually appealing**?  
 - Was user experience **(UX) taken into account** during development?
+
+#### 🎤 Pitch & Presentation (0–4 Points)
+- Is the **idea clearly and structured explained** so that the value of the solution is effectively communicated?  
+- Is the **presentation visually appealing** and professional?  
+- Are potential **questions or challenges well addressed**?
+
+---
+
+### 🗣️ Challenge Pitch
+
+#### ☁️ Requirements for Pitch
+
+Please keep the following in mind:
+
+- ⏰ **Duration**: 3 minutes for the **pitch** and 3 minutes for **Q&A**
+- **Time Slot**: 2–3 pm, **24.04**
+- Maximum of **2 people presenting** per team
+- **Room**: TBA
+- Bring your pitch on your **own device** (adapters for USB-C and HDMI will be available)
+- Be **punctual**
+- Most importantly: **Have fun!** 🎉
+
+#### 🎥 Requirements for PowerPoint Presentations
+
+Please ensure your `.pptx` file meets the following:
+
+- File format must be **.pptx**
+- **Videos must be embedded** directly (no external links)
+- Videos should **start automatically**
+- **Audio files must be embedded** (not linked)
+- Embedded audio should **play automatically**
+
+> ⚠️ The presentation you show must be **identical** to the one submitted in your GitHub repository under [**Project Submission**](https://q-summit.notion.site/Project-Submission-1bd024b9b73b8110bd64d7a581e0f8da)
