@@ -49,6 +49,7 @@ Use Semantic Kernel or other frameworks to develop your own multi-agent applicat
 - [What is Azure OpenAI Service? - Azure AI services | Microsoft Learn](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)  
 - [Azure/intro-to-intelligent-apps](https://github.com/Azure/intro-to-intelligent-apps)  
 - [Agentic Playground by Dennis Zielke](https://github.com/denniszielke/agentic-playground)
+- [AI App Templates](https://azure.github.io/ai-app-templates)
 
 ### 🏆 Additional Prizes for Challenge Winner
 
